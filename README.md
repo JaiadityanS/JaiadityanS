@@ -1,9 +1,11 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
 
-### <div align="center">I'm Jaiadityan, pursuing B.Tech CSE in Amrita School Of Engineering. Desires to be full-stack developer 👨‍💻 Graduation at 25' 🚀</div>  
+
+
+
+### <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=60&duration=2000&color=B256F7&center=true&vCenter=true&height=70&lines=JAIADITYAN" alt="Typing SVG" /></a>  <br>Pursuing B.Tech CSE in Amrita School Of Engineering. Desires to be full-stack developer 👨‍💻 Graduation at 25' 🚀</div>  
   
 
 - 🔭 I’m currently working on Making a Food Recipe App with KivyMD .
