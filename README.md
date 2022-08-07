@@ -155,7 +155,8 @@
 
 
 ### Chillaxx   
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=hnzn165ahwor8187xs3ohgtnn&cover_image=true&theme=default&bar_color=FFFFFF&bar_color_cover=true" /> </div>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=hnzn165ahwor8187xs3ohgtnn&cover_image=true&theme=default" /></div>  
 
 <br/>  
 
