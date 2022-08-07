@@ -6,9 +6,9 @@
 
 
 ### <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=60&duration=2000&color=B256F7&center=true&vCenter=true&height=70&lines=JAIADITYAN" alt="Typing SVG" /></a>  <br>Pursuing B.Tech CSE in Amrita School Of Engineering. Desires to be full-stack developer 👨‍💻 Graduation at 25' 🚀</div>  
-  
+ 
 
-- 🔭 I’m currently working on Making a Food Recipe App with KivyMD .
+- <img style="margin: 10px" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="React" height="20" />    I’m currently working on Making a Food Recipe App with KivyMD .
   
 
 - 🌱 I’m currently learning React and Tailwind .  
@@ -29,7 +29,7 @@
 
 
 ### Frontend  
-<div align="center">  
+<div align="center" style="background: rgba(255, 255, 255, 0.29);border-radius: 16px;box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);backdrop-filter: blur(5px);-webkit-backdrop-filter: blur(5px);border: 1px solid rgba(255, 255, 255, 0.3);">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
