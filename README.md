@@ -143,9 +143,11 @@
 
 
 ## Github Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jaiadityans&theme=midnight-purple&show_icons=true&count_private=true" align="center" /></div>  
-
+<div><img src="https://github-readme-stats.vercel.app/api?username=jaiadityans&theme=midnight-purple&show_icons=true&count_private=true" align="center" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiadityans&theme=material-palenight&hide=javascript,html" align="center" /></div>
 <br/>  
+
+
 
 
 
