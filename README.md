@@ -6,16 +6,16 @@
 ### <div align="center">I'm Jaiadityan, pursuing B.Tech CSE in Amrita School Of Engineering. Desires to be full-stack developer 👨‍💻 Graduation at 25' 🚀</div>  
   
 
-- 🔭 I’m currently working on Making a Food recipe app with KivyMD  
+- 🔭 I’m currently working on Making a Food Recipe App with KivyMD .
   
 
-- 🌱 I’m currently learning React and Tailwind  
+- 🌱 I’m currently learning React and Tailwind .  
   
 
-- ❓ Ask me about anything related to Python and Web development related to it   
+- ❓ Ask me about anything related to Python and Web development related .  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces .
   
 
 <br/>  
@@ -143,7 +143,7 @@
 
 
 ## Github Stats
-<div><img src="https://github-readme-stats.vercel.app/api?username=jaiadityans&theme=midnight-purple&show_icons=true&count_private=true" align="center" /> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jaiadityans&theme=midnight-purple&show_icons=true&count_private=true" align="center" />     
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiadityans&theme=material-palenight&hide=javascript,html" align="center" /></div>
 <br/>  
 
@@ -153,7 +153,7 @@
 
 
 ### Chillaxx   
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=hnzn165ahwor8187xs3ohgtnn&cover_image=true&theme=default&bar_color=ff00bb&bar_color_cover=true" />   <img src="https://spotify-recently-played-readme.vercel.app/api?user=hnzn165ahwor8187xs3ohgtnn&unique={true|1|on|yes}" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=hnzn165ahwor8187xs3ohgtnn&cover_image=true&theme=default&bar_color=FFFFFF&bar_color_cover=true" />   <img src="https://spotify-recently-played-readme.vercel.app/api?user=hnzn165ahwor8187xs3ohgtnn&unique={true|1|on|yes}" /></div>  
 
 <br/>  
 
