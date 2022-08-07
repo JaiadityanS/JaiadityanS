@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Jaiadityan, pursuing B.Tech CSE in Amrita School Of engineering. Desires to be full-stack developer 👨‍💻 Graduation at 25' 🚀</div>  
+### <div align="center">I'm Jaiadityan, pursuing B.Tech CSE in Amrita School Of Engineering. Desires to be full-stack developer 👨‍💻 Graduation at 25' 🚀</div>  
   
 
 - 🔭 I’m currently working on Making a Food recipe app with KivyMD  
