@@ -151,7 +151,7 @@
 
 
 ### Chillaxx   
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=hnzn165ahwor8187xs3ohgtnn&cover_image=true&theme=compact" /></div>  
+<div align="center"><img src="[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hnzn165ahwor8187xs3ohgtnn&cover_image=true&theme=natemoo-re&bar_color=ff00bb&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)" /></div>  
 
 <br/>  
 
