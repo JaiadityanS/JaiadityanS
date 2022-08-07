@@ -17,7 +17,7 @@
 - ❓ Ask me about anything related to Python and Web development related .  
   
 
-- ⚡ Fun fact: I use tabs over spaces .
+- ⚡ Fun fact: i'm the kind of person that will restart a song because i got distracted and wasn't appreciating it enough .
   
 
 <br/>  
