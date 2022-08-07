@@ -11,7 +11,7 @@
 - <img style="margin: 10px" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="React" height="20" />    I’m currently working on Making a Food Recipe App with KivyMD .
   
 
-- 🌱 I’m currently learning React and Tailwind .  
+- 🌱 I’m currently learning React, Angular and Tailwind .  
   
 
 - ❓ Ask me about anything related to Python and Web development related .  
