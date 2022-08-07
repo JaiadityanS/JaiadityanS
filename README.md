@@ -153,7 +153,7 @@
 
 
 ### Chillaxx   
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=hnzn165ahwor8187xs3ohgtnn&cover_image=true&theme=default&bar_color=ff00bb&bar_color_cover=true" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=hnzn165ahwor8187xs3ohgtnn&cover_image=true&theme=default&bar_color=ff00bb&bar_color_cover=true" />   <img src="https://spotify-recently-played-readme.vercel.app/api?user=hnzn165ahwor8187xs3ohgtnn&unique={true|1|on|yes}" /></div>  
 
 <br/>  
 
