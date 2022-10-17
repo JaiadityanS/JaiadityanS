@@ -8,7 +8,7 @@
 ### <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=60&duration=2000&color=B256F7&center=true&vCenter=true&height=70&lines=JAIADITYAN" alt="Typing SVG" /></a>  <br>Pursuing B.Tech CSE in Amrita School Of Engineering. Desires to be full-stack developer 👨‍💻 Graduation at 25' 🚀</div>  
  
 
-- <img style="margin: 10px" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="React" height="25" />        I’m currently working on Making a flutter apps.
+- <img style="margin: 10px" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="React" height="25" />        I’m currently working on Making flutter apps.
   
 
 - <img style="margin: 10px" src="https://media.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.gif"  height="25" />        I’m currently learning React, Angular and Tailwind . 
